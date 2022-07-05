@@ -13,3 +13,4 @@ Today we are going to build real test case for the youtube website using Cypress
    2. search for Harry Potter vs star wars movie with 33M views
    3. open video and check that it has author block and views are more than 33M
    4. BONUS: click share button and check that share url is https://youtu.be/9N5KyjM5v0c
+   5. BONUS: Come up with at least 3 problems that you see in the tests you wrote and how would you solve them
